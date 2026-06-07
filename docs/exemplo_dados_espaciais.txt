@@ -1,0 +1,107 @@
+DADOS E DOCUMENTOS ESPACIAIS - DOCUMENTO DE EXEMPLO
+====================================================
+
+1. SATÉLITES DE OBSERVAÇÃO DA TERRA
+------------------------------------
+Os satélites de observação da Terra são spacecraft posicionados em órbita para coletar dados sobre a superfície terrestre, oceanos e atmosfera. Entre os mais importantes estão:
+
+- Landsat (NASA/USGS): Serie de satélites operando desde 1972, fornece imagens multiespectrais com resolução de 30 metros. Essencial para monitoramento de desmatamento, uso do solo e mudanças costeiras.
+
+- Sentinel (ESA/Copernicus): Constelação europeia com diferentes missões: Sentinel-1 (radar), Sentinel-2 (óptico), Sentinel-3 (oceanos e clima). Dados gratuitos e abertos ao público.
+
+- GOES (NOAA): Satélites geoestacionários para monitoramento meteorológico em tempo real sobre as Américas. O GOES-16 e GOES-18 cobrem as Américas com imagens a cada 10-15 minutos.
+
+- CBERS (INPE/China): Satélite sino-brasileiro de recursos terrestres, fundamental para o monitoramento amazônico no Brasil.
+
+2. CLIMA ESPACIAL E METEOROLOGIA SOLAR
+----------------------------------------
+O clima espacial refere-se às condições no espaço influenciadas pela atividade do Sol. Principais fenômenos:
+
+Vento Solar: Fluxo contínuo de partículas carregadas emitidas pelo Sol a velocidades de 400-800 km/s. Pode afetar satélites, astronautas e sistemas de comunicação.
+
+Ejeções de Massa Coronal (CME): Explosões de plasma e campo magnético da corona solar. Quando dirigidas à Terra, podem causar tempestades geomagnéticas intensas. A maior CME registrada foi o Evento Carrington de 1859, que danificou sistemas telegráficos ao redor do mundo.
+
+Tempestades Geomagnéticas: Perturbações no campo magnético terrestre causadas pelo vento solar. Podem:
+- Afetar comunicações de rádio em altas frequências
+- Danificar satélites em órbita
+- Sobrecarregar redes elétricas
+- Criar auroras visíveis em latitudes incomuns
+
+Monitoramento: A NOAA mantém o Space Weather Prediction Center (SWPC) que fornece previsões de clima espacial em tempo real. O satélite DSCOVR monitora o vento solar a 1,5 milhão de km da Terra.
+
+3. AGRICULTURA DE PRECISÃO COM DADOS DE SATÉLITE
+-------------------------------------------------
+O sensoriamento remoto por satélite revolucionou a agricultura moderna:
+
+NDVI (Normalized Difference Vegetation Index): Índice calculado a partir de bandas infravermelhas e vermelhas. Valores entre -1 e +1, onde valores acima de 0,5 indicam vegetação densa e saudável. Amplamente usado para:
+- Monitorar saúde das culturas
+- Detectar estresse hídrico precocemente
+- Estimar produtividade agrícola
+- Otimizar aplicação de fertilizantes e defensivos
+
+EVI (Enhanced Vegetation Index): Versão aprimorada do NDVI, menos sensível a efeitos atmosféricos e saturação de sinal em vegetação densa como a Amazônia.
+
+Agricultura de Precisão: Combinando dados de satélite com GPS, drones e sensores IoT, agricultores podem:
+- Mapear variabilidade do solo em campo
+- Aplicar insumos em zonas variáveis (taxa variável)
+- Detectar pragas e doenças antes de serem visíveis a olho nu
+- Reduzir uso de água e agroquímicos em até 30%
+
+4. MONITORAMENTO AMBIENTAL
+---------------------------
+Satélites desempenham papel crucial no monitoramento ambiental:
+
+Desmatamento: O INPE (Instituto Nacional de Pesquisas Espaciais) usa o sistema PRODES para monitorar o desmatamento amazônico anualmente desde 1988. O sistema DETER faz monitoramento em tempo quase real (15 dias).
+
+Queimadas: O satélite AQUA/TERRA da NASA detecta focos de calor globalmente. O Brasil usa o sistema de monitoramento do INPE baseado em dados do MODIS.
+
+Derretimento de Geleiras: A ESA e NASA monitoram o Ártico e Antártica com satélites como o ICESat-2, que usa lasers para medir a altitude das calotas polares com precisão centimétrica.
+
+Nível do Mar: Satélites altimétricos como o Jason-3 e Sentinel-6 medem o nível global dos oceanos. O mar está subindo em média 3,6mm por ano desde 1993.
+
+5. EXPLORAÇÃO DO SISTEMA SOLAR
+--------------------------------
+Principais missões de exploração em andamento:
+
+Marte:
+- Mars Perseverance Rover (NASA, 2021): Coleta amostras para retorno futuro à Terra, busca sinais de vida antiga.
+- Ingenuity: Primeiro helicóptero a voar em outro planeta, parte da missão Perseverance.
+- Mars Express (ESA): Orbita Marte desde 2003, mapeou radar de subsuperfície.
+
+Lua:
+- Artemis Program (NASA): Objetivo de retornar humanos à Lua até 2025-2026, com foco no polo sul lunar onde há gelo de água.
+- Chandrayaan-3 (ISRO, Índia): Pouso lunar bem-sucedido em 2023, confirmou presença de enxofre no polo sul.
+
+Sistema Solar Externo:
+- James Webb Space Telescope (JWST): Lançado em 2021, observa o universo em infravermelho. Detectou moléculas orgânicas complexas no espaço profundo.
+
+6. ÓRBITAS E MECÂNICA ORBITAL
+-------------------------------
+Tipos de órbita terrestre:
+
+LEO (Low Earth Orbit): 160-2.000 km de altitude. Usada por ISS, Starlink, satélites de observação. Período orbital ~90 minutos.
+
+MEO (Medium Earth Orbit): 2.000-35.786 km. Usada por constelações GPS (GNSS). Período de ~12 horas.
+
+GEO (Geostationary Earth Orbit): 35.786 km. Satélite parece estacionário do solo. Ideal para meteorologia e telecomunicações. Período de 24 horas.
+
+SSO (Sun-Synchronous Orbit): Órbita polar que passa sempre no mesmo horário solar local, ideal para sensoriamento remoto pois garante iluminação consistente nas imagens.
+
+Lixo Espacial: Há mais de 27.000 objetos rastreados acima de 10cm em órbita. O risco de colisão (Síndrome de Kessler) é uma preocupação crescente para a sustentabilidade das órbitas terrestres.
+
+7. NOVA ECONOMIA ESPACIAL (NEW SPACE)
+---------------------------------------
+O setor espacial privado cresceu exponencialmente:
+
+SpaceX: Reusabilidade do Falcon 9 reduziu custo de lançamento em 90%. Starship visa lançamentos ainda mais baratos. Starlink tem mais de 5.000 satélites em LEO.
+
+Planet Labs: Opera mais de 200 satélites Dove, fornecendo imagens diárias de toda a Terra com resolução de 3-5 metros.
+
+Aplicações comerciais:
+- Imagens de satélite para seguradoras e finanças
+- Dados de AIS (rastreamento de navios)
+- Monitoramento de emissões de carbono via satélite
+- Internet por satélite em áreas remotas
+- Turismo espacial (Blue Origin, Virgin Galactic)
+
+Investimentos: O mercado espacial global movimentou US$ 546 bilhões em 2023, com previsão de superar US$ 1 trilhão até 2040.
